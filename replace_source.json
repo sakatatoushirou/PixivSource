@@ -2,7 +2,7 @@
   {
     "group": "Pixiv",
     "id": 1,
-    "isEnabled": true,
+    "isEnabled": false,
     "isRegex": true,
     "name": "去P站标记",
     "order": 2,
@@ -13,7 +13,7 @@
   {
     "group": "Pixiv",
     "id": 2,
-    "isEnabled": true,
+    "isEnabled": false,
     "isRegex": true,
     "name": "去P站网址标记",
     "order": 3,
