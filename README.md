@@ -1,4 +1,4 @@
-# Pixiv [阅读3.0](https://github.com/gedoor/legado/releases)的书源
+# [阅读3.0](https://github.com/gedoor/legado/releases)的 Pixiv 书源
 
 ### Pixiv 书源链接：  
 [项目](https://github.com/windyhusky/PixivSource)
