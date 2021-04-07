@@ -1,5 +1,5 @@
 ### [Pixiv 标签](https://github.com/DowneyRem/PixivSource/blob/main/PixivRemark.md) 替换规则
-不知道为什么 [Pixiv 标签替换规则](https://raw.githubusercontent.com/DowneyRem/PixivSource/main/replace_source.json) 不能一键导入，所以只好这样一条条列出来了
+不知道为什么 [Pixiv 标签替换规则](https://raw.githubusercontent.com/DowneyRem/PixivSource/main/replace_source.json) 不能网络导入，所以只好这样一条条列出来了
 
 ### 去P站标记
 去除 [newpage] 
