@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/windyhusky/PixivSource/main/shareBookSource.js
 ### Pixiv 替换净化：
 [项目](https://github.com/DowneyRem/PixivSource)
 By [DowneyRem](https://github.com/DowneyRem) 
-净化作者自己加上去的乱七八糟的 [Pixiv 标签](https://github.com/DowneyRem/PixivSource/blob/main/PixivRemark.md)  
+净化作者自己加上去的乱七八糟的 [Pixiv 标签](https://github.com/DowneyRem/PixivSource/blob/main/PixivMark.md)  
 https://raw.githubusercontent.com/DowneyRem/PixivSource/main/replace_source.json  
 (打开阅读-第4屏-替换净化-右上角三点-网络导入)
 
