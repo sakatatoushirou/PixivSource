@@ -10,6 +10,7 @@ https://raw.githubusercontent.com/windyhusky/PixivSource/main/shareBookSource.js
 [项目](https://github.com/DowneyRem/PixivSource)
 By [DowneyRem](https://github.com/DowneyRem) 
 净化作者自己加上去的乱七八糟的 [Pixiv 标签](https://github.com/DowneyRem/PixivSource/blob/main/PixivMark.md)  
+不知道为什么只能导入其中一个，剩下的规则[在这里](https://github.com/DowneyRem/PixivSource/blob/main/ReplacePixivMark.md)
 https://raw.githubusercontent.com/DowneyRem/PixivSource/main/replace_source.json  
 (打开阅读-第4屏-替换净化-右上角三点-网络导入)
 
