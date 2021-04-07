@@ -5,7 +5,7 @@
     "isEnabled": true,
     "isRegex": true,
     "name": "去P站标记",
-    "order": 1,
+    "order": 2,
     "pattern": "(\[+(newpage|chapter|pixivimage)\:*)|(\s*>\s*)|(\]+)",
     "replacement": "",
     "scope": "https://www.pixiv.net/novel/"
@@ -16,7 +16,7 @@
     "isEnabled": true,
     "isRegex": true,
     "name": "去P站网址标记",
-    "order": 2,
+    "order": 3,
     "pattern": "(\[+(jumpuri)\:)|(\s*>\s*)|(\]+)",
     "replacement": "",
     "scope": "https://www.pixiv.net/novel/"
@@ -27,7 +27,7 @@
     "isEnabled": false,
     "isRegex": true,
     "name": "去网址",
-    "order": 3,
+    "order": 4,
     "pattern": "(?i)(https?://)?([wｗＷ]{3}\.)[\w\?&=\/\.]+|(https?://)?[\w\?&=\/]+\.[\w\?&=\/\.]+",
     "replacement": "",
     "scope": "https://www.pixiv.net/novel/"
