@@ -10,13 +10,36 @@ https://raw.githubusercontent.com/windyhusky/PixivSource/main/shareBookSource.js
 [项目](https://github.com/DowneyRem/PixivSource)
 By [DowneyRem](https://github.com/DowneyRem)  
 https://raw.githubusercontent.com/DowneyRem/PixivSource/main/replace_source.json  
-(打开阅读-第4屏-替换精华-右上角三点-网络导入)
+(打开阅读-第4屏-替换净化-右上角三点-网络导入)
 
 
 
 
 ### 其他备用
-一键导入的链接  
+#### APP 开发者的订阅源
+内有多个书源、订阅源、替换净化规则，均可一键导入  
+https://gitee.com/alanskycn/yuedu/raw/master/JS/RSS/rssSource  
+(打开阅读-第3屏-右上角设置-右上角三点-网络导入)
+
+#### 通用书源
+将搜索引擎，变成书源  
+[使用方法1](https://telegra.ph/%E8%BF%99%E4%B8%AA%E4%B9%A6%E6%BA%90%E5%8F%AF%E5%A4%AA%E7%89%9B%E4%BA%86-03-29) & 
+[使用方法2](https://te.legra.ph/%E5%BF%85%E7%9C%8B%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%A5%BD%E5%A5%BD%E8%AF%B4%E4%B8%80%E4%B8%8B%E8%BF%99%E4%B8%AA%E4%B9%A6%E6%BA%90-03-29)  
+https://bushixuanqi.oss-cn-chengdu.aliyuncs.com/%E6%BA%90.json  
+(打开阅读-第4屏-书源管理-右上角三点-网络导入)
+
+#### 网文书源
+##### 集合书源壹
+https://gitee.com/gekunfei/web/raw/master/myBookshelf/xc1772006  
+https://bookSources.github.io  
+https://blackholep.github.io/20190815set1  
+(打开阅读-第4屏-书源管理-右上角三点-网络导入)
+
+#### 在线书源仓库
+http://yck.mumuceo.com/
+
+
+#### 一键导入的链接  
 订阅源：yuedu://rsssource/importonline?src=http://alanskycn.gitee.io/vip/assets/import/rss_source.json  
 书源：yuedu://booksource/importonline?src=http://alanskycn.gitee.io/vip/assets/import/book_source.json  
 替换：yuedu://replace/importonline?src=http://alanskycn.gitee.io/vip/assets/import/replace_source.json  
