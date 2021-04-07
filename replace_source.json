@@ -6,7 +6,7 @@
     "isRegex": true,
     "name": "去P站标记",
     "order": 2,
-    "pattern": "(\[+(newpage|chapter|pixivimage)\:*)|(\s*>\s*)|(\]+)",
+    "pattern": "(\[(newpage|chapter|pixivimage)\:*)|([0-9]{1,10})|(\])",
     "replacement": "",
     "scope": "https://www.pixiv.net/novel/"
   },
@@ -17,7 +17,7 @@
     "isRegex": true,
     "name": "去P站网址标记",
     "order": 3,
-    "pattern": "(\[+(jumpuri)\:)|(\s*>\s*)|(\]+)",
+    "pattern": "(\[+(jumpuri|rb)\:)|(\s*>\s*)|(\]+)",
     "replacement": "",
     "scope": "https://www.pixiv.net/novel/"
   },
