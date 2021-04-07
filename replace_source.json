@@ -1,0 +1,35 @@
+[
+  {
+    "group": "Pixiv",
+    "id": 1,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去P站标记",
+    "order": 1,
+    "pattern": "(\[+(newpage|chapter|pixivimage)\:*)|(\s*>\s*)|(\]+)",
+    "replacement": "",
+    "scope": "https://www.pixiv.net/novel/"
+  },
+  {
+    "group": "Pixiv",
+    "id": 2,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "去P站网址标记",
+    "order": 2,
+    "pattern": "(\[+(jumpuri)\:)|(\s*>\s*)|(\]+)",
+    "replacement": "",
+    "scope": "https://www.pixiv.net/novel/"
+  },
+  {
+    "group": "Pixiv",
+    "id": 3,
+    "isEnabled": false,
+    "isRegex": true,
+    "name": "去网址",
+    "order": 3,
+    "pattern": "(?i)(https?://)?([wｗＷ]{3}\.)[\w\?&=\/\.]+|(https?://)?[\w\?&=\/]+\.[\w\?&=\/\.]+",
+    "replacement": "",
+    "scope": "https://www.pixiv.net/novel/"
+  }
+]
