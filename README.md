@@ -6,6 +6,10 @@ By [@windyhusky](https://github.com/windyhusky)
 https://raw.githubusercontent.com/windyhusky/PixivSource/main/shareBookSource.json  
 (打开阅读-第4屏-书源管理-右上角三点-网络导入)
 
+#### 使用教程
+待写
+
+
 ### Pixiv 替换净化：
 [项目](https://github.com/DowneyRem/PixivSource)
 By [DowneyRem](https://github.com/DowneyRem) 
