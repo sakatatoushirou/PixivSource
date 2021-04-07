@@ -19,10 +19,15 @@
 
 
 ### 标记符应用后
-
 **[newpage]  
 [chapter:第1章 XXXX]  
 [pixivimage:88815815]  
 [jump:2]  
 [[jumpuri:谷歌 > www.google.com]]  
 [[rb:漢字 > かんじ]]**
+
+### Pixiv 替换净化：
+净化作者自己加上去的乱七八糟的 Pixiv 标签  
+https://raw.githubusercontent.com/DowneyRem/PixivSource/main/replace_source.json  
+(打开阅读-第4屏-替换净化-右上角三点-网络导入)  
+不知道为什么只能导入其中一个，剩下的规则[在这里](https://github.com/DowneyRem/PixivSource/blob/main/ReplacePixivMark.md)  
